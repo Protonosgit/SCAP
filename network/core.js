@@ -21,7 +21,7 @@ const network = {
   // the headers that need to be recorded
   HEADERS: ['content-length', 'accept-ranges', 'content-type', 'content-disposition'],
   // HOST
-  LIST: 'https://cdn.jsdelivr.net/gh/chandler-stimson/live-stream-downloader@latest/v3/network/blocked.json',
+  LIST: 'https://raw.githubusercontent.com/Protonosgit/SCAP/refs/heads/master/network/blocked.json',
   // Cache name
   NAME: 'network.persistent'
 };

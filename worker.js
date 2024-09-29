@@ -113,9 +113,9 @@ const badge = (n, tabId) => {
 
 const observe = d => {
   // hard-coded excludes
-  if (d.initiator && d.initiator.startsWith('https://www.youtube.com')) {
-    return;
-  }
+  // if (d.initiator && d.initiator.startsWith('https://www.youtube.com')) {
+  //   return;
+  // }
 
   // unsupported content types
   if (
