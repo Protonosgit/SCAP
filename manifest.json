@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "version": "0.5.0",
-  "name": "Live Stream Downloader",
+  "name": "SCAP Stream Downloader",
   "description": "__MSG_description__",
   "default_locale": "en",
   "permissions": [
@@ -45,6 +45,6 @@
     "512": "/data/icons/512.png"
   },
   "action": {
-    "default_title": "Download HLS Streams"
+    "default_title": "Download HLS Streams freed"
   }
 }
